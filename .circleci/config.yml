@@ -18,7 +18,7 @@ commands:
       - run:
           name: RunUp_02
           command: |
-            nie
+            ls
 
       - run:
           name: RunUp_03
