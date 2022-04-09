@@ -18,7 +18,7 @@ commands:
       - run:
           name: RunUp_02
           command: |
-            lsa
+            lsaa
 
       - run:
           name: RunUp_03
